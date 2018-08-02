@@ -1,7 +1,6 @@
 # PythonExe
 Tabuada Python
-# Faça um programa que leia um número inteiro
-# qualquer e mostre na tela a sua tabuada.
+# Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
 
 num = int (input('Digite um número para ver sua tabuada: '))
 cont = 1
